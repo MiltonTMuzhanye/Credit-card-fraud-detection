@@ -49,3 +49,6 @@ Best model (based on ROC AUC): LogisticRegression
   - Correlation plot
   - Precision-Recall Curve
   - Feature Importance
+
+## Conclusion
+  This project successfully applied machine learning to detect credit card fraud, with Logistic Regression achieving the best ROC AUC score (0.971)
