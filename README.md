@@ -47,7 +47,7 @@ Best model (based on ROC AUC): LogisticRegression
   - Class distribution bar chart
   - Transaction amount boxplot & histogram
   - Correlation plot
-  - Precision-Recall Curve
+  - Precision Recall Curve
   - Feature Importance
 
 ## Conclusion
