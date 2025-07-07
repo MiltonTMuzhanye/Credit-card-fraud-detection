@@ -1,4 +1,4 @@
-# Credit-card-fraud-detection
+# Credit_card_fraud_detection
 
 This project applies machine learning models to detect fraudulent credit card transactions using an imbalanced dataset. The objective is to identify fraudulent transactions as accurately as possible while handling the class imbalance effectively.
 
@@ -28,7 +28,7 @@ This project applies machine learning models to detect fraudulent credit card tr
   ### Evaluation Metrics
     Each model was evaluated using:
      - ROC AUC Score
-     - Classification Report (Precision, Recall, F1-score)
+     - Classification Report (Precision, Recall, F1 score)
      - Confusion Matrix
      - Precision-Recall Curve
      - Cross-Validation ROC AUC Scores
